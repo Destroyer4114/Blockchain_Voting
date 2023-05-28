@@ -1,0 +1,4 @@
+setup ganache quick start
+truffle migrate --reset
+cd client
+yarn start
